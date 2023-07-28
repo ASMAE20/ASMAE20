@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20)](https://github.com/ASMAE20/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE20&hide_progress=true)
