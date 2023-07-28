@@ -18,7 +18,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=ASMAE20)
+![](https://komarev.com/ghpvc/?username=ASMAE20&color=green)
 
 ![ASMAE20's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
 
