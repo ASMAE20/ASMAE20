@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE20&hide_progress=true)
+<a href="https://github.com/ASMAE20/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ASMAE20&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ASMAE20/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ASMAE20&repo=convoychat" />
+</a>
