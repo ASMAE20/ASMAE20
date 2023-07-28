@@ -1,4 +1,4 @@
-### Hi there 👋
+### ### Greetings! I am ASMAE ELAZRAK :) 👋
 
 <!--
 **ASMAE20/ASMAE20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+![ASMAE20's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE20&hide_progress=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20)](https://git.io/streak-stats)
