@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/ASMAE20/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ASMAE20&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ASMAE20/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ASMAE20&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20)](https://github.com/ASMAE20/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
