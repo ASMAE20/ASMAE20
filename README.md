@@ -26,14 +26,14 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Agolang"><img alt="Terraform" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Apowershell"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell%20-%235391FE.svg?logo=powershell&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell%20-%235391FE.svg?logo=powershell&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 </p>
 
