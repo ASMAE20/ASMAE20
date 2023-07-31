@@ -17,10 +17,15 @@
 - ⚡ Fun fact: ...
 
 ## 🙋‍♂️ Connect with me
-<p >
+<p align="center"> >
   <a href="https://www.linkedin.com/in/asmae-elazrak"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
 </p>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/ASMAE20/github-readme-streak-stats -->
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true)](https://github.com/ASMAE20)
+
 
 ### Tech Stack
 <a href="https://www.docker.com/">
