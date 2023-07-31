@@ -70,6 +70,16 @@
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%23DD0031.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white"></a>
+    <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E"></a>
+    <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" ></a>
+    <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=Azure-DevOps&logoColor=white"></a>
+    <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white&labelColor=000000" ></a>
+    <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000" ></a>
+    <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=orange&labelColor=000000" ></a>
+    
+  < width="115" height="30"/>
+   
     
     
 
