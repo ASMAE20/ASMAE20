@@ -16,10 +16,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Find me on:
-[<img align="left" alt="asmae-elazrak | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
-</br>
-</br>
+## 🙋‍♂️ Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/asmae-elazrak"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+</p>
 
 ### Tech Stack
 <a href="https://www.docker.com/">
