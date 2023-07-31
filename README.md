@@ -21,12 +21,6 @@
   <a href="https://www.linkedin.com/in/asmae-elazrak"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/ASMAE20/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true)](https://github.com/ASMAE20)
-
-
 ### Tech Stack
 
 ### 👨‍💻 Programming languages
@@ -42,12 +36,62 @@
     <a href="https://github.com/search?q=user%3Atranphuquy19+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 </p>
-<a href="https://www.docker.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="70" height="70"/>
-        </a>
 
-<a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
-        </a>
+### 🧰 Frameworks and libraries
+<p>
+    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js%20-%23E0234E.svg?logo=nestjs&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazon%20aws&logoColor=white"></a>
+    <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-%23569A31.svg?logo=amazon%20s3&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-%23316192.svg?logo=amazon%20dynamodb&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
+    <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform%20-%23623CE4.svg?logo=terraform&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+ 
+
+
+
+
+## 🔥 Streak stats
+
+[![wakatime](https://wakatime.com/badge/user/f6eaf09c-495f-4a4f-aba1-8bb9b755f06a.svg)](https://wakatime.com/@f6eaf09c-495f-4a4f-aba1-8bb9b755f06a)
+
+<!-- https://github.com/ASMAE20/github-readme-stats -->
+<details>
+  <summary>💻 GitHub Streak stats</summary>
+  <br/>
+   <!-- GitHub Readme Streak Stats - https://github.com/ASMAE20/github-readme-streak-stats -->
+> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true)](https://github.com/ASMAE20)
+
+
+
+
+
+
+
 
 
