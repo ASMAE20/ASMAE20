@@ -1,9 +1,19 @@
 ###  Greetings! I am ASMAE ELAZRAK :) 👋
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-</div>
+|GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![ASMAE's github stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ASMAE20/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE20&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/ASMAE20/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=ASMAE20)||
+
+![](https://komarev.com/ghpvc/?username=ASMAE20&color=green)
+
+![20's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE20&hide_progress=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20)](https://git.io/streak-stats)
+
 
 
 <div id="badges">
@@ -19,13 +29,6 @@
   <img src="https://komarev.com/ghpvc/?username=ASMAE20&style=flat-square&color=blue" alt=""/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=ASMAE20&color=green)
-
-![ASMAE20's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMAE20&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMAE20&hide_progress=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20)](https://git.io/streak-stats)
 
 <!--
 **ASMAE20/ASMAE20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
