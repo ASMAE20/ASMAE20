@@ -83,8 +83,6 @@
   <summary>💻 GitHub Streak stats</summary>
   <br/>
    <!-- GitHub Readme Streak Stats - https://github.com/ASMAE20/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true)](https://github.com/ASMAE20)
-<br/>
     <a href="https://github.com/ASMAE20/github-readme-streak-stats"><img alt="ASMAE20 GitHub Streak stats " src="https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true" /></a>
 
 
