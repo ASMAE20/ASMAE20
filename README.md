@@ -1,4 +1,4 @@
-###  Greetings! I am ASMAE ELAZRAK :) 👋
+###  Greetings! I am ASMAE ELAZRAK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
 |GITHUB STATS|MOST USED LANGUAGES|
