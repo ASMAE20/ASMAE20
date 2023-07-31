@@ -78,15 +78,14 @@
 
 ## 🔥 Streak stats
 
-[![wakatime](https://wakatime.com/badge/user/f6eaf09c-495f-4a4f-aba1-8bb9b755f06a.svg)](https://wakatime.com/@f6eaf09c-495f-4a4f-aba1-8bb9b755f06a)
-
 <!-- https://github.com/ASMAE20/github-readme-stats -->
 <details>
   <summary>💻 GitHub Streak stats</summary>
   <br/>
    <!-- GitHub Readme Streak Stats - https://github.com/ASMAE20/github-readme-streak-stats -->
 > [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true)](https://github.com/ASMAE20)
-
+<br/>
+    <a href="https://github.com/ASMAE20/github-readme-streak-stats"><img alt="ASMAE20 GitHub Streak stats " src="https://github-readme-streak-stats.herokuapp.com?user=ASMAE20&theme=radical&hide_border=true" /></a>
 
 
 
