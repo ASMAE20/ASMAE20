@@ -69,7 +69,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%23DD0031.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white"></a>
-    <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="80" height="30"></a>
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white"></a>
     
     
 
