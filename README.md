@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...
 
 ## 🙋‍♂️ Connect with me
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/asmae-elazrak"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 </p>
