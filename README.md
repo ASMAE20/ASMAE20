@@ -17,10 +17,11 @@
 - ⚡ Fun fact: ...
 
 ### Find me on:
-[<img align="left" alt="ASMAE | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="asmae-elazrak | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 </br>
 </br>
 
+### Tech Stack
 
 
 
