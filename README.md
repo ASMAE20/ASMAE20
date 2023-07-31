@@ -7,11 +7,11 @@
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=ASMAE20)||
 
 
-- 🔭 I’m currently working on cloud and devops project
+- 🔭 I’m expanding my knowledge in Cloud and DevOps.
 - 🌱 I’m currently looking for a new role as junior DevOps engineer
 - 👯 I’’m focusing on improving my DevOps skills
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about any skill i have , I will be happy to help.
+- 🤔 I’m looking for unlimited leaning opportunities
+- 💬 Ask me about any skill i have , I will be happy to help
 - 📫 How to reach me: elazrakasmae@gmail.com
 
 ## 🙋‍♂️ Connect with me
@@ -69,6 +69,8 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%23DD0031.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="80" height="30"></a>
+    
     
 
   
