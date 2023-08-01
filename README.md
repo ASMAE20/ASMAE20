@@ -78,7 +78,7 @@
     <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000" ></a>
     <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=orange&labelColor=000000" ></a>
     
-  < width="115" height="30"/>
+ 
    
     
     
