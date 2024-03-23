@@ -8,10 +8,10 @@
 
 
 - 🔭 I’m expanding my knowledge in Cloud and DevOps.
-- 🌱 I’m currently looking for a new role as junior DevOps engineer
-- 👯 I’m focusing on improving my DevOps skills
-- 🤔 I’m looking for unlimited leaning opportunities
-- 💬 Ask me about any skill i have , I will be happy to help
+- 🌱 I’m currently looking for a new role as a junior DevSecOps engineer
+- 👯 I’m focusing on improving my DevSecOps skills
+- 🤔 I’m looking for unlimited learning opportunities
+- 💬 Ask me about any skill i have, I will be happy to help
 - 📫 How to reach me: elazrakasmae@gmail.com
 
 ## 🙋‍♂️ Connect with me
